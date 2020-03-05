@@ -6,7 +6,7 @@ A super enhancer (SE) is a genomic locus on the genome that has a cluster of enh
 SEpipe Workflow 
 --------
 <p align="center">
-  <img src="figure/SEpipe-web.png" width="100%" height="100%" title="SEpipe workflow">
+  <img src="figure/SEpipe-web.png" width="70%" height="70%" title="SEpipe workflow">
 </p>
 
 
